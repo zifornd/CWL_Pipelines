@@ -1,0 +1,4 @@
+fastq_dir:
+  class: Directory
+  path: /home/lathika.m/CWL/CWL_HTS_pipelines-main/Additional_workflows/Trimmomatic/NGS_data
+threads: 1
